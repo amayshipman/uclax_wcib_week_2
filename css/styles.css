@@ -4,6 +4,26 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: sans-serif; }
+  font-family: futura;
+  color: white;
+  text-align: left;
+  width: 1000px;
+  margin: auto; }
+  body p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    text-align: center; }
+  body iframe {
+    padding: 75px; }
+  body h4 {
+    text-align: center; }
+  body .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; }
   body img {
-    width: 100%; }
+    width: 40%;
+    height: auto; }

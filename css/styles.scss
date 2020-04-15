@@ -1,13 +1,76 @@
 body {
 
+	width: 1000px;
+	margin: auto;
+
+	font-family: futura;
+		color: white;
+		text-align: center;
+
 	background: url('/photos/orangepool.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-	font-family: sans-serif;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+
+
+
+		padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+	text-align: center;
+
+
+	h2 {
+	iframe {padding: 75px}
+	text-align: left;
+	}
+
+	h3 {
+		img src="/photos/undocumented+rare.png"
+		text-align: center;
+	}
+
+
+
+
+	h4 {
+		text-align: left;
 
 	img {
-		width: 100%;
+		width: 40%; height: auto;
+
+	}
+
+	h5 {
+		text-align: center;
+	}
+
+		}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	}
 }
